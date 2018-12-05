@@ -1,0 +1,32 @@
+body{
+
+    font-family: 'Aclonica', sans-serif;
+}
+
+.height{
+    /*height: 1000px;*/
+    min-height: 100vh;
+}
+
+.title-underline{
+    width: 210px;
+    height: 5px;
+    margin: 0px auto;
+    background: blue !important;
+/*overriding the class do the above*/
+}
+
+.height-80{
+    /*height: 1000px;*/
+    min-height: 100vh;
+}
+
+.about-picture{
+    background: url(../images/image-4.jpg) center/cover no-repeat fixed;
+    /*background-size: cover;*/
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    /*background-attachment: fixed;*/
+
+
+}
